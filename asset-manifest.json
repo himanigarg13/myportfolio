@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e01947ad.css",
+    "main.js": "/myportfolio/static/js/main.2b56b454.js",
+    "static/media/Coffeeshop.png": "/myportfolio/static/media/Coffeeshop.8a93e2d071bbd071ddab.png",
+    "static/media/about.jpg": "/myportfolio/static/media/about.51cad1be045a0edbf2eb.jpg",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.322c5ad586d26bd1697b.pdf",
+    "static/media/profile.jpeg": "/myportfolio/static/media/profile.22c2329cce177b60c32c.jpeg",
+    "static/media/Pizza Shop.png": "/myportfolio/static/media/Pizza Shop.833b0c67a287aee58f9a.png",
+    "static/media/Admindashboard Project.jpg": "/myportfolio/static/media/Admindashboard Project.06f95598e3a8696b8cd1.jpg",
+    "static/media/IMG7.jpg": "/myportfolio/static/media/IMG7.49769dda1bd513061c1e.jpg",
+    "static/media/Moviesearch.png": "/myportfolio/static/media/Moviesearch.3f1cb4cf79e23151769a.png",
+    "static/media/Engdictionary.png": "/myportfolio/static/media/Engdictionary.ebd8f1d8efc6c2e5e32f.png",
+    "static/media/Todolist.png": "/myportfolio/static/media/Todolist.f872bd37fd6f2e47a617.png",
+    "static/media/Walletapp.png": "/myportfolio/static/media/Walletapp.905d5215539d63fbbbcb.png",
+    "index.html": "/myportfolio/index.html",
+    "main.e01947ad.css.map": "/myportfolio/static/css/main.e01947ad.css.map",
+    "main.2b56b454.js.map": "/myportfolio/static/js/main.2b56b454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01947ad.css",
+    "static/js/main.2b56b454.js"
+  ]
+}
