@@ -1,5 +1,5 @@
 # myportfolio
-👋 Welcome to my portfolio,[https://himanigarg13.github.io/myportfolio](url) where technology meets data-driven innovation!
+👋 Welcome to my portfolio, where technology meets data-driven innovation!
 
 I'm not just a developer; I'm a data enthusiast on a mission to transform raw information into actionable insights. With a strong foundation in JavaScript and React, I excel in creating immersive web experiences. But my true passion lies in the realm of data analytics and relational databases.
 
